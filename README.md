@@ -26,10 +26,15 @@ python-number-guessing-game/
 ---
 
 **## ⚡ How to Run**
+
 1. Clone the repository:
+   
    git clone https://github.com/kanimozhip512/python-number-guessing-game.git
+   
    cd number_guessing_game_with_scoreboard
+   
 2. Run the game:
+   
    python main.py
 
 ****🎮 Sample Gameplay:****
