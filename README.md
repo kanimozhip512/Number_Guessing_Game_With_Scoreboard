@@ -1,4 +1,5 @@
 ****# Python Number Guessing Game with Scoreboard****
+
 A Python mini-project that lets you play a Number Guessing Game 🎲. The computer randomly selects a number between 1 and 50, and you have 10 attempts to guess it correctly.
 
 This project demonstrates core Python concepts like **variables, conditionals, loops, functions, random number generation, math operations, and lists** in a fun way.
