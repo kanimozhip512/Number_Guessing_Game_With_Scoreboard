@@ -16,8 +16,11 @@ This project demonstrates core Python concepts like **variables, conditionals, l
 ---
 
 **## 📂 Project Structure**
+
 python-number-guessing-game/
+
 ├── main.py        # Main game script
+
 └── README.md      # Documentation
 
 ---
