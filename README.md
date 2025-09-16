@@ -29,7 +29,7 @@ python-number-guessing-game/
 
 1. Clone the repository:
    
-   git clone https://github.com/kanimozhip512/python-number-guessing-game.git
+   git clone https://github.com/kanimozhip512/Number_Guessing_Game_With_Scoreboard.git
    
    cd number_guessing_game_with_scoreboard
    
